@@ -6,9 +6,9 @@ I'm a researcher and developer focused on computational drug discovery and machi
 
 ## 🔬 About Me
 
-- 🧪 Developing deep learning pipelines for molecular generation and QSAR modeling
-- 🧬 Interested in LSTM-based de novo drug design, cheminformatics, and bioactivity prediction
-- 🔭 Current work: cpIMPDH-targeted inhibitor design using generative models and transfer learning
+- 🧪 Developing deep learning pipelines for molecular generation and Drug desing
+- 🧬 Interested  in cheminformatics, bioactivity prediction, and Free energy purturbation (FEP)
+- 🔭 Future work: LLM assisted biosensor design (coming soon....)
 
 ---
 
