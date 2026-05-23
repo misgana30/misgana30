@@ -6,7 +6,7 @@ I'm a researcher and developer focused on computational drug discovery and machi
 
 ## 🔬 About Me
 
-- 🧪 Developing deep learning pipelines for molecular generation and Drug desing
+- 🧪 Developing deep learning pipelines for molecular generation and Drug design
 - 🧬 Interested  in cheminformatics, bioactivity prediction, and Free energy purturbation (FEP)
 - 🔭 Future work: LLM assisted biosensor design (coming soon....)
 
