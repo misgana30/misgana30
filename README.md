@@ -33,6 +33,18 @@ I'm a researcher and developer focused on computational drug discovery and machi
 
 ---
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=misgana30&theme=radical&hide_border=true&area=true)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misgana30&theme=radical&hide_border=true)
+
+---
+
 ## 📌 Featured Projects
 
 ### [🧬 cpIMPDH-LSTM Pipeline](https://github.com/misgana30/cpIMPDH-lstm-pipeline)
