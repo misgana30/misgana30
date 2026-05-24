@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Misgana;Computational+Drug+Discovery+%F0%9F%A7%AC;Deep+Learning+%7C+Molecular+Design+%F0%9F%A7%A0;Welcome+to+my+GitHub!+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Misgana+the+ALchemist;Computational+Drug+Discovery+%F0%9F%A7%AC;Deep+Learning+%7C+Molecular+Design+%F0%9F%A7%A0;Welcome+to+my+GitHub!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
