@@ -9,7 +9,7 @@
 ## 🔬 About Me
 
 - 🧪 Developing deep learning pipelines for molecular generation and Drug design
-- 🧬 Interested in cheminformatics, bioactivity prediction, and Free Energy Perturbation (FEP)
+- 🧬 Interested in cheminformatics, bioactivity prediction, Free Energy Perturbation (FEP), and Biosensor 
 - 🔭 Future work: LLM-assisted biosensor design _(coming soon...)_
 
 ---
