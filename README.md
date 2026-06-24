@@ -54,10 +54,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-### [🧬 cpIMPDH-LSTM Pipeline](https://github.com/misgana30/cpIMPDH-lstm-pipeline)
-End-to-end deep learning pipeline for **de novo molecular generation** and **QSAR modeling** targeting the *Cryptosporidium parvum* IMPDH enzyme.
 
 ---
 
